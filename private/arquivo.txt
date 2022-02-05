@@ -1,0 +1,8 @@
+
+1 | Teste ADM | Impressora | Impressao
+1 | Teste ADM 2 | Hardware | Teste PC
+3 | TESTE JOSÉ | Software | Software
+1 | Teste 05/02/2022 | Hardware | Teste rad
+4 | Maria | Rede | Rede
+1 | Notebook | Hardware | asdsdada
+4 | Notebook nao liga | Software | asdsda
